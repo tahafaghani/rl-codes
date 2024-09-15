@@ -37,9 +37,17 @@ A deterministic policy maps each state to exactly one action. There is no random
 
 A probabilistic policy allows for multiple actions in each state, with a certain probability for each action. The value function is calculated by considering these probabilities.
 
+## Contact
+If you have any questions or suggestions, feel free to reach out:
+
+- **Taha Faghani** - [taha.faghani.daroopi@gmail.com](mailto:taha.faghani.daroopi@gmail.com)
+- GitHub: [tahafaghani](https://github.com/tahafaghani)
+
 ## Running the Code
 
 To run the probabilistic policy evaluation, execute the following command:
 
 ```bash
 python iterative_policy_evaluation.py
+
+
